@@ -1,0 +1,20 @@
+.hero-section {
+    background-color: #030c20;
+    padding: 30px 0;
+    text-align: center;
+    color: #eee;
+}
+
+.hero-section__header-1 {
+    margin: 0;
+    text-transform: uppercase;
+    border: 1px solid #eee;
+    outline: 1px solid #eee;
+    outline-offset: 2px;
+    padding: 10px 14px;
+    display: inline-block;
+}
+
+.hero-section__header-2 {
+    font-style: italic;
+}

@@ -1,0 +1,16 @@
+.footer {
+    background-color: #030c20;
+    color: #eee;
+    margin-top: 30px;
+    padding: 32px;
+    text-align: center;
+}
+
+.footer__mail {
+    color: #eee;
+    text-decoration: none;
+}
+
+.footer__name {
+    margin-top: 0;
+}

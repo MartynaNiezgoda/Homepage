@@ -1,0 +1,26 @@
+.navigation {
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+    background-color: #030c20;
+    margin: 0;
+    padding: 32px 0;
+    border-top: 4px double #eee;
+}
+
+.navigation__item {
+    padding: 20px;
+    text-transform: uppercase;
+    color: #eee;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.navigation__item:hover {
+    background-color: #eee;
+    color: #030c20;
+}
+
+.navigation__item:active {
+    background-color: #ccc;
+}
