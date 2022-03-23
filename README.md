@@ -1,4 +1,5 @@
 # Martyna Niezgoda - Homepage
+![homepageScreen](images/homepageScreen.png)
 
 ## Demo
 https://martynaniezgoda.github.io/Homepage/
